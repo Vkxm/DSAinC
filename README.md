@@ -1,1 +1,1 @@
-# Data Structure And Alogorith In C
+# Data Structure And Alogorithm In C
